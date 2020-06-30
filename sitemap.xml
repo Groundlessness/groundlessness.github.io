@@ -2,17 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://groundlessness.io/index.html</loc>
-    <lastmod>2020-05-06</lastmod>
+    <lastmod>2020-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://groundlessness.io/phone/index.html"/>
-  </url>
-  <url>
-    <loc>http://groundlessness.io/about.html</loc>
-    <lastmod>2020-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://groundlessness.io/phone/about.html"/>
   </url>
   <url>
     <loc>http://groundlessness.io/objects.html</loc>
@@ -23,6 +16,13 @@
     <image:image>
       <image:loc>http://groundlessness.io/images/pasted-svg-31291x278.svg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://groundlessness.io/about.html</loc>
+    <lastmod>2020-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://groundlessness.io/phone/about.html"/>
   </url>
   <url>
     <loc>http://groundlessness.io/bibliography.html</loc>
@@ -180,6 +180,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://groundlessness.io/assets/dubois_state1.png</loc>
+    <lastmod>2020-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://groundlessness.io/assets/06---rites.png</loc>
     <lastmod>2020-05-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -187,12 +193,6 @@
   </url>
   <url>
     <loc>http://groundlessness.io/assets/07---rites.png</loc>
-    <lastmod>2020-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://groundlessness.io/assets/19chi.jpg</loc>
     <lastmod>2020-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -230,6 +230,12 @@
   <url>
     <loc>http://groundlessness.io/assets/slave-ship.jpg</loc>
     <lastmod>2020-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://groundlessness.io/assets/infreefall.html</loc>
+    <lastmod>2020-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -336,12 +342,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://groundlessness.io/assets/dubois_state1.png</loc>
-    <lastmod>2020-05-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://groundlessness.io/assets/int-1.png</loc>
     <lastmod>2020-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -349,6 +349,12 @@
   </url>
   <url>
     <loc>http://groundlessness.io/assets/05ca.jpg</loc>
+    <lastmod>2020-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://groundlessness.io/assets/19chi.jpg</loc>
     <lastmod>2020-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="groundlessness.io" resolutions="1x" timestamp="1588813169667">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="groundlessness.io" resolutions="1x" timestamp="1593551592264">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="about.css" crc="3799922958" ref="about"/>
-    <file name="objects.css" crc="76612038" ref="objects"/>
-    <file name="crossing-the-threshold.css" crc="358691786" ref="crossing-the-threshold"/>
-    <file name="brand.css" crc="4262730979" ref="brand"/>
-    <file name="index.css" crc="4253608608" ref="index"/>
-    <file name="bibliography.css" crc="4292984227" ref="bibliography"/>
-    <file name="free-fall.css" crc="470531019" ref="free-fall"/>
     <file name="groundlessness.css" crc="430038682" ref="groundlessness"/>
-    <file name="top-down-maps.css" crc="4285120791" ref="top-down-maps"/>
-    <file name="hero-s-journey.css" crc="4013812653" ref="hero-s-journey"/>
+    <file name="crossing-the-threshold.css" crc="358691786" ref="crossing-the-threshold"/>
+    <file name="liminality_-sustained.css" crc="4126424165" ref="liminality,-sustained"/>
+    <file name="adulting.css" crc="4147655867" ref="adulting"/>
     <file name="slave-ship.css" crc="110960059" ref="slave-ship"/>
-    <file name="astrology.css" crc="128061703" ref="astrology"/>
+    <file name="ambiguity---cq.css" crc="236277924" ref="ambiguity---cq"/>
+    <file name="hero-s-journey.css" crc="4013812653" ref="hero-s-journey"/>
     <file name="d-d.css" crc="183108174" ref="d-d"/>
     <file name="the-choice-is-yours.css" crc="4277836245" ref="the-choice-is-yours"/>
-    <file name="avengers.css" crc="155154679" ref="avengers"/>
     <file name="marketing.css" crc="3904363810" ref="marketing"/>
+    <file name="avengers.css" crc="155154679" ref="avengers"/>
+    <file name="index.css" crc="51651534" ref="index"/>
     <file name="rites-of-passage.css" crc="4225023071" ref="rites-of-passage"/>
-    <file name="adulting.css" crc="4147655867" ref="adulting"/>
-    <file name="ambiguity---cq.css" crc="236277924" ref="ambiguity---cq"/>
-    <file name="liminality_-sustained.css" crc="4126424165" ref="liminality,-sustained"/>
+    <file name="free-fall.css" crc="470531019" ref="free-fall"/>
+    <file name="brand.css" crc="4262730979" ref="brand"/>
+    <file name="bibliography.css" crc="4292984227" ref="bibliography"/>
+    <file name="top-down-maps.css" crc="4285120791" ref="top-down-maps"/>
+    <file name="objects.css" crc="76612038" ref="objects"/>
+    <file name="about.css" crc="3799922958" ref="about"/>
+    <file name="astrology.css" crc="128061703" ref="astrology"/>
   </folder>
   <folder name="fonts">
     <file name="regular.woff" crc="524350834"/>
@@ -62,6 +62,7 @@
     <file name="cq_shaodw.jpg" crc="3829639485" seo="true" mt="1588780348000"/>
     <file name="cq_yer-the-sun.jpg" crc="149723706" seo="true" mt="1588780297000"/>
     <file name="slave-ship.jpg" crc="3825317052" seo="true" mt="1585071893000"/>
+    <file name="infreefall.html" crc="3804330427" seo="true" mt="1593549207000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>adulting:phone>rites-of-passage:phone>liminality,-sustained:phone>crossing-the-threshold:phone>groundlessness:phone>ambiguity---cq:phone>top-down-maps:phone>the-choice-is-yours:phone>d-d:phone>free-fall:phone>slave-ship:phone>hero-s-journey:phone>avengers:phone>astrology:phone>brand:phone>marketing:phone>bibliography:phone>about:phone>objects:index:adulting:rites-of-passage:liminality,-sustained:crossing-the-threshold:groundlessness:top-down-maps:the-choice-is-yours:d-d:slave-ship:hero-s-journey:avengers:astrology:brand:marketing:ambiguity---cq:free-fall:bibliography:about:objects"/>
@@ -73,53 +74,53 @@
   </folder>
   <folder name="images">
     <file name="pasted-svg-31291x278.svg" crc="43938448" seo="true" ref="phone>index:phone>adulting:phone>rites-of-passage:phone>liminality,-sustained:phone>crossing-the-threshold:phone>groundlessness:phone>ambiguity---cq:phone>top-down-maps:phone>the-choice-is-yours:phone>d-d:phone>free-fall:phone>slave-ship:phone>hero-s-journey:phone>avengers:phone>astrology:phone>brand:phone>marketing:phone>bibliography:phone>about:phone>objects:objects">
-      <caption webpage="groundlessness" alt=""/>
-      <caption webpage="objects" alt=""/>
-      <caption webpage="objects" alt=""/>
-      <caption webpage="astrology" alt=""/>
-      <caption webpage="top-down-maps" alt=""/>
-      <caption webpage="free-fall" alt=""/>
-      <caption webpage="brand" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="hero-s-journey" alt=""/>
-      <caption webpage="marketing" alt=""/>
-      <caption webpage="crossing-the-threshold" alt=""/>
-      <caption webpage="slave-ship" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="ambiguity---cq" alt=""/>
-      <caption webpage="liminality,-sustained" alt=""/>
-      <caption webpage="avengers" alt=""/>
       <caption webpage="the-choice-is-yours" alt=""/>
-      <caption webpage="bibliography" alt=""/>
-      <caption webpage="d-d" alt=""/>
+      <caption webpage="top-down-maps" alt=""/>
+      <caption webpage="marketing" alt=""/>
+      <caption webpage="objects" alt=""/>
+      <caption webpage="objects" alt=""/>
+      <caption webpage="free-fall" alt=""/>
+      <caption webpage="slave-ship" alt=""/>
+      <caption webpage="brand" alt=""/>
+      <caption webpage="ambiguity---cq" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="crossing-the-threshold" alt=""/>
       <caption webpage="adulting" alt=""/>
+      <caption webpage="d-d" alt=""/>
       <caption webpage="rites-of-passage" alt=""/>
+      <caption webpage="bibliography" alt=""/>
+      <caption webpage="avengers" alt=""/>
+      <caption webpage="liminality,-sustained" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="astrology" alt=""/>
+      <caption webpage="hero-s-journey" alt=""/>
+      <caption webpage="groundlessness" alt=""/>
     </file>
     <file name="pasted svg 31291x278_poster_.png" crc="301788595" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4025852864" ref="phone>slave-ship:phone>groundlessness:phone>objects:phone>top-down-maps:phone>free-fall:phone>ambiguity---cq:phone>avengers:phone>bibliography:phone>adulting:phone>liminality,-sustained:phone>the-choice-is-yours:phone>about:phone>hero-s-journey:phone>rites-of-passage:phone>marketing:phone>brand:phone>d-d:phone>index:phone>crossing-the-threshold:phone>astrology"/>
+      <file name="master_a-master.css" crc="4025852864" ref="phone>slave-ship:phone>free-fall:phone>liminality,-sustained:phone>marketing:phone>astrology:phone>hero-s-journey:phone>about:phone>ambiguity---cq:phone>adulting:phone>index:phone>bibliography:phone>groundlessness:phone>d-d:phone>brand:phone>top-down-maps:phone>avengers:phone>the-choice-is-yours:phone>crossing-the-threshold:phone>rites-of-passage:phone>objects"/>
       <file name="slave-ship.css" crc="4090030570" ref="phone>slave-ship"/>
-      <file name="groundlessness.css" crc="3898442106" ref="phone>groundlessness"/>
-      <file name="objects.css" crc="239959186" ref="phone>objects"/>
-      <file name="top-down-maps.css" crc="3826355204" ref="phone>top-down-maps"/>
       <file name="free-fall.css" crc="516107533" ref="phone>free-fall"/>
-      <file name="ambiguity---cq.css" crc="336384160" ref="phone>ambiguity---cq"/>
-      <file name="avengers.css" crc="168290371" ref="phone>avengers"/>
-      <file name="bibliography.css" crc="3935127207" ref="phone>bibliography"/>
-      <file name="adulting.css" crc="4040810660" ref="phone>adulting"/>
       <file name="liminality_-sustained.css" crc="178623359" ref="phone>liminality,-sustained"/>
-      <file name="the-choice-is-yours.css" crc="3986018638" ref="phone>the-choice-is-yours"/>
-      <file name="about.css" crc="365491966" ref="phone>about"/>
-      <file name="hero-s-journey.css" crc="4108999144" ref="phone>hero-s-journey"/>
-      <file name="rites-of-passage.css" crc="3877765252" ref="phone>rites-of-passage"/>
       <file name="marketing.css" crc="196431944" ref="phone>marketing"/>
-      <file name="brand.css" crc="503714776" ref="phone>brand"/>
-      <file name="d-d.css" crc="4099758176" ref="phone>d-d"/>
-      <file name="index.css" crc="366918375" ref="phone>index"/>
-      <file name="crossing-the-threshold.css" crc="4290933434" ref="phone>crossing-the-threshold"/>
       <file name="astrology.css" crc="304906309" ref="phone>astrology"/>
+      <file name="hero-s-journey.css" crc="4108999144" ref="phone>hero-s-journey"/>
+      <file name="about.css" crc="365491966" ref="phone>about"/>
+      <file name="ambiguity---cq.css" crc="336384160" ref="phone>ambiguity---cq"/>
+      <file name="adulting.css" crc="4040810660" ref="phone>adulting"/>
+      <file name="index.css" crc="366918375" ref="phone>index"/>
+      <file name="bibliography.css" crc="3935127207" ref="phone>bibliography"/>
+      <file name="groundlessness.css" crc="3898442106" ref="phone>groundlessness"/>
+      <file name="d-d.css" crc="4099758176" ref="phone>d-d"/>
+      <file name="brand.css" crc="503714776" ref="phone>brand"/>
+      <file name="top-down-maps.css" crc="3826355204" ref="phone>top-down-maps"/>
+      <file name="avengers.css" crc="168290371" ref="phone>avengers"/>
+      <file name="the-choice-is-yours.css" crc="3986018638" ref="phone>the-choice-is-yours"/>
+      <file name="crossing-the-threshold.css" crc="4290933434" ref="phone>crossing-the-threshold"/>
+      <file name="rites-of-passage.css" crc="3877765252" ref="phone>rites-of-passage"/>
+      <file name="objects.css" crc="239959186" ref="phone>objects"/>
     </folder>
     <file name="index.html" crc="147502185" seo="true" mt="1588812889264" redirect="true"/>
     <file name="adulting.html" crc="3981532838" seo="true" mt="1588812953707" redirect="true"/>
@@ -142,7 +143,7 @@
     <file name="about.html" crc="196766466" seo="true" mt="1588813111448" redirect="true"/>
     <file name="objects.html" crc="362101685" seo="true" mt="1588812878442" redirect="true"/>
   </folder>
-  <file name="index.html" crc="512195366" seo="true" mt="1588805624537" redirect="true"/>
+  <file name="index.html" crc="3840004506" seo="true" mt="1593551559065" redirect="true"/>
   <file name="adulting.html" crc="299846587" seo="true" mt="1588805624617" redirect="true"/>
   <file name="rites-of-passage.html" crc="3851875799" seo="true" mt="1588805624702" redirect="true"/>
   <file name="liminality,-sustained.html" crc="3761233657" seo="true" mt="1588805624787" redirect="true"/>
